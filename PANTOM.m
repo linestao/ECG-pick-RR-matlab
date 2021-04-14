@@ -63,7 +63,6 @@ end
 
 peak=peaks/128;
 rr=diff(peaks,1);
-plot(rr)
 plot(rr/128)
 
 
